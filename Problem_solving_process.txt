@@ -1,0 +1,11 @@
+1. Analyze the problem.
+a. Outline the problem requirements
+b. Design the steps (algorithm) to solve the problem
+
+2. Implement the algorithm 
+a. Implement the algorithm in code.
+b. Verify that the algorithm works.
+
+3. Maintenance
+a. Use and modify the program if the problem domain changes
+

@@ -1,0 +1,8 @@
+1. Analyze the problem
+
+2. Outline the problem requirements
+
+3. Design steps (algorithm) to solve the problem.
+
+
+Note: These problem solving techniques can be easily modified if tthe domain of the problelm changes.
